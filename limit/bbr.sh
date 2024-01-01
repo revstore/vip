@@ -18,7 +18,7 @@ clear
 #	 menu
 #else
 
-echo -e "Installing TCP BBR Mod By Supra Store"
+echo -e "Installing TCP BBR Mod By Rev Store"
 echo -e "Please Wait BBR Installation Will Starting . . ."
 sleep 5
 clear
